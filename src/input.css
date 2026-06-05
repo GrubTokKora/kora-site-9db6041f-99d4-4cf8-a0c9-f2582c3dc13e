@@ -1,3 +1,48 @@
+/* Source for assets/styles.css — compile externally (see Vega Mexican pattern). */
 @import "tailwindcss";
 @source "../**/*.html";
-@source "../assets/**/*.js";
+@source "../js/**/*.js";
+
+/* Theme migrated from former Play CDN tailwind.config (extend) */
+@theme {
+  --color-gold-50: #FBF4DD;
+  --color-gold-100: #F6E7B6;
+  --color-gold-200: #F0D788;
+  --color-gold-300: #FFD87C;
+  --color-gold-400: #E0B547;
+  --color-gold-500: #CAA746;
+  --color-gold-600: #AE8E37;
+  --color-gold-700: #8A7029;
+  --color-gold-800: #63501D;
+  --color-gold-900: #3E3214;
+
+  --color-ink-0: #0B0A08;
+  --color-ink-1: #141210;
+  --color-ink-2: #1E1B16;
+  --color-ink-3: #2A251D;
+  --color-ink-4: #38322A;
+
+  --color-line: #38322A;
+  --color-line-soft: #26221B;
+
+  --color-paper-0: #F8F2E5;
+  --color-paper-1: #EFE7D3;
+  --color-paper-2: #E3D8BE;
+
+  --color-cream: #F5EEDD;
+  --color-fg2: #BCB29B;
+  --color-fg3: #8A8273;
+
+  --color-success: #6BAE6E;
+  --color-error: #D2553F;
+
+  --font-display: Archivo, "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Hanken Grotesk", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+
+  --max-width-wrap: 1200px;
+  --radius-xl2: 28px;
+
+  --shadow-glow: 0 0 0 1px rgba(202, 167, 70, 0.4), 0 8px 30px rgba(202, 167, 70, 0.22);
+  --shadow-soft: 0 6px 20px rgba(0, 0, 0, 0.45);
+}
