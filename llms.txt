@@ -1,0 +1,22 @@
+# Box To Go
+
+> Box To Go is a New York City-based business that provides takeout packaging for commercial kitchens.
+
+## Location & Contact
+- Address: New York City
+- Phone: +12125550100
+- Email: sales@kora.example
+
+## Hours
+- Monday: 7:00 AM - 7:00 PM
+- Tuesday: 7:00 AM - 7:00 PM
+- Wednesday: 7:00 AM - 7:00 PM
+- Thursday: 7:00 AM - 7:00 PM
+- Friday: 7:00 AM - 7:00 PM
+- Saturday: 7:00 AM - 7:00 PM
+- Sunday: 
+
+## Action Links
+- [Reserve a Table](tel:+12125550100)
+- [Order Online](contact.html)
+- [Browse products](products.html)
